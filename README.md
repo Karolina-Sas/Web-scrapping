@@ -1,4 +1,3 @@
 # Web-scrappings
 
-test
-test
+Data extraction from Wikipededia and saving output as as .txt file.
